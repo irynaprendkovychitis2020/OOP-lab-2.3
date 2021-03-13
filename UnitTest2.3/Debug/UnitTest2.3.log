@@ -1,0 +1,4 @@
+﻿  UnitTest2.3.cpp
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 2\лаб 2,3\lab 2.3\UnitTest2.3\UnitTest2.3.cpp(19,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека C:\Users\computer\Desktop\2 семестр\ООП\лаб 2\лаб 2,3\lab 2.3\Debug\UnitTest2.3.lib и объект C:\Users\computer\Desktop\2 семестр\ООП\лаб 2\лаб 2,3\lab 2.3\Debug\UnitTest2.3.exp
+  UnitTest2.3.vcxproj -> C:\Users\computer\Desktop\2 семестр\ООП\лаб 2\лаб 2,3\lab 2.3\Debug\UnitTest2.3.dll
